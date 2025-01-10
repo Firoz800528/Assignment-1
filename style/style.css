@@ -213,5 +213,32 @@ body{
     border: none;
     cursor: pointer;
 }
+.quot-sec{
+    margin-top: 25px;
+    height: 125px;
+    padding: 35px 17px;
+    background-image: url(../assets/quote-bg.png);
+    background-position: left-20px, top-30px;
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    border-radius: 12px;
+}
+.quot-sec q{
+    line-height: 18px;
+    font-size: 11.5px;
+    color: #3E3E3E;
+
+}
+.quot-sec h4{
+    font-size: 15px;
+    font-weight: 600;
+    color: #3E3E3E;
+    margin-top: 9px;
+    margin-bottom: 3px;
+}
+.quot-sec #title{
+    color: #757575;
+}
 
 
