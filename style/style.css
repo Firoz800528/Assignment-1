@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #F5F5F5;
+    margin: 0 auto;
+    width: 909px;
+}
+.font{
+    font-family: fira sans;
+}
+.nav-sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.nav-sec #nav-title{
+    font-size: 22px;
+}
+.nav-sec #nav-btn{
+    color: #006a50;
+    border: 1px solid #006a50;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+.nav-sec #nav-btn:hover{
+    color: #FFFFFF;
+    background-color: #006A50;
+    border: 1px solid #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.banner{
+    height: 398px;
+    width: 909px;
+    display: flex;
+    background-color: #C6E4D6;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 20px;
+}
+.banner-content{
+    width: 440px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
+.banner-content p{
+    color: #6A7972;
+    font-size: 18px;
+    font-weight: 500 ;
+    margin-bottom: 15px;
+}
+.banner-content h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 15px;
+
+}
+.banner-content #banner-btn{
+    padding: 13px 26px;
+    color: #FFFFFF;
+    background-color: #006A50;
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.banner-content #banner-btn:hover{
+    padding: 13px 26px;
+    color: #006A50;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.pillars-sec{
+    margin-top: 60px;
+}
+.pillars-sec h2{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.pillars-card{
+    display: flex;
+    justify-content: space-between;
+
+}
+.pillars-card-single{
+    height: 137px;
+    width: 177px;
+    background-color: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    border-radius: 12px;
+    padding: 17px;
+}
+.pillars-card h4{
+    color: #3E3E3E;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-bottom: 12px;
+}
+.pillars-card p{
+    color: #565656;
+    font-size: 11px;
+}
+.vision-sec{
+    margin-top: 60px;
+}
+.vision-sec h2{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.vision-sec p{
+    color: #535353;
+    font-size: 11.5px;
+    margin-bottom: 20px;
+}
+.vision-card{
+    display: flex;
+    justify-content: space-between;
+
+}
+.vision-card-single{
+    height: 175px;
+    width: 255px;
+    border: 1px solid #DBDBDB;
+    border-radius: 12px;
+    padding: 17px;
+}
+.vision-card-bg1{
+    background-color: #D5E1F5;
+}
+.vision-card-bg2{
+    background-color: #C6E4D6;
+}
+.vision-card-bg3{
+    background-color: #F7EBCF;
+}
+
+.vision-card h4{
+    color: #3E3E3E;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-bottom: 12px;
+}
+.vision-card p{
+    color: #565656;
+    font-size: 11px;
+}
+.vision-sec-btn1{
+    color: #FFFFFF;
+    font-size: 11.5px;
+    padding: 8px 14px;
+    background-color: #5490F5;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+
+}
+.vision-sec-btn1:hover{
+    color:  #5490F5;
+    font-size: 11.5px;
+    padding: 8px 14px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.vision-sec-btn2{
+    color: #FFFFFF;
+    font-size: 11.5px;
+    padding: 8px 14px;
+    background-color: #09A15C ;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.vision-sec-btn2:hover{
+    color: #09A15C;
+    font-size: 11.5px;
+    padding: 8px 14px;
+    background-color: #FFFFFF ;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.vision-sec-btn3{
+    color: #FFFFFF;
+    font-size: 11.5px;
+    padding: 8px 14px;
+    background-color: #FFC239;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.vision-sec-btn3:hover{
+    color: #FFC239;
+    font-size: 11.5px;
+    padding: 8px 14px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+
