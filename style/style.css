@@ -384,6 +384,7 @@ table{
     display: flex;
     gap: 20px;
     margin-top: 24px;
+    justify-content: center;
 }
 .donate-item button{
     padding: 30px;
