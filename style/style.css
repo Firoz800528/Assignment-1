@@ -315,11 +315,11 @@ table{
     color: #535353;
 }
 .news-bar{
-    height: 300px;
-    margin-top: 25px;
+    height: 220px;
+    margin-top: 35px;
     background-color: #FFFFFF;
     border-radius: 12px;
-    padding: 0px 34px 0px 34px;
+    padding: 34px;
     display: flex;
     justify-content: space-between;
     align-items: start;
@@ -372,6 +372,8 @@ table{
     font-weight: bold;
     text-align: center;
     color: #0E0E0E;
+    margin-top: 60px;
+    margin-bottom: 19px;
 }
 .donate-content{
     font-size: 11.5px;
