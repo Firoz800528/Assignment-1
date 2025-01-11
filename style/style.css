@@ -12,6 +12,7 @@ body{
 .font{
     font-family: fira sans;
 }
+/* header section */
 .nav-sec{
     display: flex;
     align-items: center;
@@ -84,6 +85,7 @@ body{
     font-weight: bold;
     cursor: pointer;
 }
+/* piller section */
 .pillars-sec{
     margin-top: 60px;
 }
@@ -117,6 +119,7 @@ body{
     color: #565656;
     font-size: 11px;
 }
+/* vision section */
 .vision-sec{
     margin-top: 60px;
 }
@@ -219,6 +222,7 @@ body{
     border: none;
     cursor: pointer;
 }
+/* quotation section */
 .quot-sec{
     margin-top: 25px;
     height: 125px;
@@ -246,6 +250,7 @@ body{
 .quot-sec #title{
     color: #757575;
 }
+/* opinion section */
 select:hover{
     cursor: pointer;
 }
@@ -298,6 +303,7 @@ td select{
 table{
     width: 862px;
 }
+/* news section */
 .news-sec h2{
     font-size: 30px;
     font-weight: bold;
@@ -360,6 +366,7 @@ table{
 .revers{
     flex-direction: row-reverse;
 }
+/* donate section */
 .donate-header{
     font-size: 30px;
     font-weight: bold;
@@ -431,6 +438,7 @@ table{
     background-color: #FFFFFF;
     cursor: pointer;
 }
+/* newsletter section */
 .newsletter{
     height: 271px;
     background-color: #C6E4D6;
@@ -485,6 +493,7 @@ table{
     border-radius: 0px 8px 8px 0px;
     cursor: pointer;
 }
+/* footer section */
 footer{
     margin-top: 60px;
     background-color: white;
