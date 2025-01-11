@@ -495,7 +495,8 @@ table{
 }
 /* footer section */
 footer{
-    margin-top: 60px;
+
+    margin-top: 60px auto;
     background-color: white;
     display: flex;
     justify-content: center;
